@@ -13,7 +13,7 @@ Task 2:- Simple Calculator
 Develop a calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Allow the user to input two numbers and choose an operation to perform.
 
 
-TASK 3:- TIC-TAC-TOE GAME
+TasK 3:- TIC-TAC-TOE GAME
 
 Build a simple console-based Tic-Tac-Toe game that allows two players to play against each other.
 
