@@ -19,8 +19,8 @@ Build a simple console-based Tic-Tac-Toe game that allows two players to play ag
 
 Game Board: Create a 3x3 grid as the game board.                                       
 Players: Assign "X" and "O" to two players.
-Display Board: Show the current state of the board.
-Player Input: Prompt the current player to enter their move.
+Display Board: Show the current state of the board.                                       
+Player Input: Prompt the current player to enter their move.                            
 Update Board: Update the game board with the player's move.                             
 Check for Win: Check if the current player has won.                                  
 Check for Draw: Determine if the game is a draw.                                        
