@@ -3,17 +3,17 @@
 I have completed tasks given for my internship as a C++ Programmer in CodSoft. 
 I hope it will be helpfull for you.
 
-Task 1:- Number Guessing Game. 
+🌟 Task 1:- Number Guessing Game. 
 
 Create a program that generates a random number and asks the user to guess it. 
 Provide feedback on whether the guess is too high or too low until the user guesses the correct number.
 
-Task 2:- Simple Calculator 
+🌟 Task 2:- Simple Calculator 
 
 Develop a calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. Allow the user to input two numbers and choose an operation to perform.
 
 
-TasK 3:- TIC-TAC-TOE GAME
+🌟 TasK 3:- TIC-TAC-TOE GAME
 
 Build a simple console-based Tic-Tac-Toe game that allows two players to play against each other.
 
@@ -38,8 +38,7 @@ Display Result: Show the result of the game (win, draw, or ongoing).
 
 Play Again: Ask if the players want to play another game.
 
-
-Task 4 :- TO-DO LIST
+🌟 Task 4 :- TO-DO LIST
 
 Build a simple console-based to-do list
 manager that allows users to add, view, and
@@ -55,4 +54,4 @@ Mark Task as Completed: Allow users to mark tasks as completed.
 
 Remove Task: Provide an option to remove tasks from the list.
 
-👉 By - Nitin Dubey 
+👉 Code by -> Nitin Dubey 
