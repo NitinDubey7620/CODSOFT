@@ -23,17 +23,18 @@ Display Board: Show the current state of the board.
 Player Input: Prompt the current player to enter their move.
 Update Board: Update the game board with the player's move.                             
 Check for Win: Check if the current player has won.                                  
-Check for Draw: Determine if the game is a draw.                                     
+Check for Draw: Determine if the game is a draw.                                        
 Switch Players: Alternate turns between "X"
 and "O" players.                           
-Display Result: Show the result of the game (win, draw, or ongoing).
+Display Result: Show the result of the game (win, draw, or ongoing).                   
 Play Again: Ask if the players want to play another game.
 
 🌟 Task 4 :- TO-DO LIST
 
 Build a simple console-based to-do list
 manager that allows users to add, view, and
-delete tasks.                              
+delete tasks.   
+
 Task Input: Allow users to input tasks they want to add to the list.                   
 Add Task: Implement a function to add tasks to the list.                               
 View Tasks: Display the list of tasks with their status (completed or pending).       
